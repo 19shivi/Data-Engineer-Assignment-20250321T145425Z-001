@@ -3,7 +3,6 @@
 This project performs data analysis on financial, client, payment, and subscription information stored in CSV files. It aims to answer key business questions related to client industries, subscription renewals, and payment trends.
 
 ## Project Structure
-.
 ├── finanical_information.csv
 
 ├── industry_client_details.csv
