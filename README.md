@@ -5,9 +5,13 @@ This project performs data analysis on financial, client, payment, and subscript
 ## Project Structure
 .
 ├── finanical_information.csv
+
 ├── industry_client_details.csv
+
 ├── payment_information.csv
+
 ├── subscription_information.csv
+
 └── code.ipynb
 * `finanical_information.csv`: Contains financial data including start and end dates.
 * `industry_client_details.csv`: Contains client IDs and their respective industries.
